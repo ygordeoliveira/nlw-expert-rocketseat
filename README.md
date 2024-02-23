@@ -1,4 +1,4 @@
-# Nlw-Expert-Rocketseat - Project
+# Nlw-Expert-Rocketseat - project
 
 This project is a notes app. It is an application where the user can create notes using audio or text and can save them.
 
