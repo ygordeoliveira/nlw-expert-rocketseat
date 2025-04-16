@@ -48,3 +48,7 @@ After running this command, you will have downloaded a complete copy of the repo
 When running this command, a new browser tab will open with the project running.
 
 The project will open at this browser url http://localhost:5173/
+
+## Author
+
+Ygor de Oliveira Souza da Silva
